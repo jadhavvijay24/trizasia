@@ -1,0 +1,13 @@
+1. packages->dynamic->admin panel
+2. home->about us->packages->contact
+
+home:
+	header
+	footer
+	
+add package -> changes
+				-> add all ids
+				-> offer -> show or don't show
+
+
+	
